@@ -5,6 +5,10 @@ file = "config/simulated-server.toml"
 hash = "e455129a16c80da9bcc9ed1374827887f2e0361fc8c2206c13749aee0fa5c73a"
 
 [[files]]
+file = "maintenance.sh"
+hash = "b58d2aea7f5cb429009b9185f104a9715aceb116500402afc810610ea04f0671"
+
+[[files]]
 file = "mods/aeroengine.pw.toml"
 hash = "3637f8c7e237525c908ef902ab13765be9b7c885e22a5ec0532561a13af7ba48"
 metafile = true
@@ -282,11 +286,6 @@ metafile = true
 [[files]]
 file = "mods/create-vibrant-vaults.pw.toml"
 hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
-metafile = true
-
-[[files]]
-file = "mods/create-vintage-(unofficial-port).pw.toml"
-hash = "30f47ae0488b62621306955e3a4c071c062ca723965e64c6da899a0bf1c8a213"
 metafile = true
 
 [[files]]
