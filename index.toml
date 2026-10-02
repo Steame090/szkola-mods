@@ -55,11 +55,6 @@ hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
 metafile = true
 
 [[files]]
-file = "mods/cosmonautics-deep-air.pw.toml"
-hash = "ee0fdf638745dfff92320b76eceef0ada67b2ac1a270dcbb70bc1b309a999d5c"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
@@ -72,11 +67,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
-metafile = true
-
-[[files]]
-file = "mods/create-bionics.pw.toml"
-hash = "124abaf71e87fc686427821889dcc65ba6b709003c426fbc069aeec5747c5a7a"
 metafile = true
 
 [[files]]
@@ -112,11 +102,6 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
-metafile = true
-
-[[files]]
-file = "mods/create-cosmonatics.pw.toml"
-hash = "1f2d7a0dbc88261f7849be33a7418e5f59ac8408580fbce27b972e2021d87596"
 metafile = true
 
 [[files]]
@@ -185,28 +170,8 @@ hash = "205ac4987dcaf6aa6a099c9dbcb97f9aea85b2f9b2f5953fc88c83d92afd90b5"
 metafile = true
 
 [[files]]
-file = "mods/create-jetpack.pw.toml"
-hash = "157b009cd9b2a7f55f2b7d0abdc2f9f7d49eade208a786c71cc6d2f8430bba4a"
-metafile = true
-
-[[files]]
-file = "mods/create-mechanical-extruder.pw.toml"
-hash = "6e064a3988937e06dfa307c8c395c73461819f9135197bc30563c6f13d1f1da4"
-metafile = true
-
-[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "055a23471c72576d1f79e2edcd6a20bcaa59ac70c84480fc10069c6469b3f528"
-metafile = true
-
-[[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "39499039e11a6e0f50542d80af94c172342fdb686f3a59d5ee4457d978a54e75"
-metafile = true
-
-[[files]]
-file = "mods/create-optical.pw.toml"
-hash = "c42f5f98141fa759c4da854b0f11562d0907ccf130a7e522b04d5b574d191087"
 metafile = true
 
 [[files]]
@@ -242,11 +207,6 @@ metafile = true
 [[files]]
 file = "mods/create-sable-dynamic-lights.pw.toml"
 hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
-metafile = true
-
-[[files]]
-file = "mods/create-sifting.pw.toml"
-hash = "464baff9adb918c7eb8fbfdb2efedeba5f1d3f6eebe87fc3fad5649e8e4ee18e"
 metafile = true
 
 [[files]]
@@ -407,11 +367,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
-metafile = true
-
-[[files]]
-file = "mods/tfmg-community-edition.pw.toml"
-hash = "8f0cba8a87fd4fd749a95a02e41a4754f6db3d3c96da921f4c1cbaa8a191b293"
 metafile = true
 
 [[files]]
