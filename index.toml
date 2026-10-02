@@ -6,7 +6,7 @@ hash = "e455129a16c80da9bcc9ed1374827887f2e0361fc8c2206c13749aee0fa5c73a"
 
 [[files]]
 file = "maintenance.sh"
-hash = "b58d2aea7f5cb429009b9185f104a9715aceb116500402afc810610ea04f0671"
+hash = "ca9ecc8b5b59fb540b31508aee07303e7e89875487c56eb46104585713ae3c15"
 
 [[files]]
 file = "mods/aeroengine.pw.toml"
