@@ -1,0 +1,13 @@
+name = "Slide Show Pro"
+filename = "slideshow_pro-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P6nYxysS/versions/zYYvj6gP/slideshow_pro-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "a70af17f03db685e6a4f70bf3c5c2a673d1649d672cbfff8e9b61a9c78888f3726d83cd986ecdb4b37b75c1523b984d6fa343e7e3b7bd0cfb9df96dac46ecd0d"
+
+[update]
+[update.modrinth]
+mod-id = "P6nYxysS"
+version = "zYYvj6gP"

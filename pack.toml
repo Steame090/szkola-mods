@@ -1,0 +1,13 @@
+name = "paczka"
+author = "Steame"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b2ad1ed8a1bfa64906d8e3da590e97ae355459d615fe8c6bc99f2801497069bb"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"
