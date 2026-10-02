@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/create_deep_dark-common.toml"
-hash = "613452e58a23d20a098f59d5f3cfc023b399a8b73c57bb719aefef09c5a45a8d"
-
-[[files]]
-file = "config/simulated-server.toml"
-hash = "e455129a16c80da9bcc9ed1374827887f2e0361fc8c2206c13749aee0fa5c73a"
-
-[[files]]
-file = "config/xaero/minimap/profiles/default.cfg"
-hash = "0a308ca0fea77916dfce9c35b592f4ebff808a643be4819b961dc803817e248f"
-
-[[files]]
 file = "mods/aeroengine.pw.toml"
 hash = "3637f8c7e237525c908ef902ab13765be9b7c885e22a5ec0532561a13af7ba48"
 metafile = true
