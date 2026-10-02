@@ -45,11 +45,6 @@ hash = "0194091946d249681e33dd32a927122e844d4093c2f14165f2f99f92e028af11"
 metafile = true
 
 [[files]]
-file = "mods/cgs.pw.toml"
-hash = "dae8f38fa94bb1ce2108bf60fcce95eed3b5e9a3deb6759093a217e9b192f5ac"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
 metafile = true
@@ -307,11 +302,6 @@ metafile = true
 [[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "12c6e23ca90b3dc4df9f51c445d944e7cd298186dec5aeff65b66e54343f3272"
-metafile = true
-
-[[files]]
-file = "mods/ntgl.pw.toml"
-hash = "7932fbacc370edc6fd2577784800fd3d8baf7ceffa7d8ef0ac927ec13a62f16a"
 metafile = true
 
 [[files]]
