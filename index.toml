@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create_deep_dark-common.toml"
+hash = "613452e58a23d20a098f59d5f3cfc023b399a8b73c57bb719aefef09c5a45a8d"
+
+[[files]]
 file = "config/simulated-server.toml"
 hash = "e455129a16c80da9bcc9ed1374827887f2e0361fc8c2206c13749aee0fa5c73a"
 
@@ -378,3 +382,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "f8cc300d53ae8bf71d77124e6c46a5e85fe31654b39c5d73a1652a4d9c404af4"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "5ce480fd94fb4a7a7e4861cd920f49260548a0aac833d4d45b39e610f836ec40"
