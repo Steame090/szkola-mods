@@ -9,6 +9,10 @@ file = "config/simulated-server.toml"
 hash = "e455129a16c80da9bcc9ed1374827887f2e0361fc8c2206c13749aee0fa5c73a"
 
 [[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "0a308ca0fea77916dfce9c35b592f4ebff808a643be4819b961dc803817e248f"
+
+[[files]]
 file = "mods/aeroengine.pw.toml"
 hash = "3637f8c7e237525c908ef902ab13765be9b7c885e22a5ec0532561a13af7ba48"
 metafile = true
@@ -134,11 +138,6 @@ hash = "dcbb37e828a2f915e64a2ef839a742761a553a2e3b923b000ffba95db7503ac3"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-and-desires.pw.toml"
-hash = "c308b557b01b6e6cc25ee8d6a1a7c78bca2b71be3ae645e40d10cf25259fabcd"
-metafile = true
-
-[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "5625c978cee5102013e027c07d7ba815c597799a14cc447dfff63104d76b74be"
 metafile = true
@@ -206,11 +205,6 @@ metafile = true
 [[files]]
 file = "mods/create-sable-dynamic-lights.pw.toml"
 hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
-metafile = true
-
-[[files]]
-file = "mods/create-springs.pw.toml"
-hash = "34953474ddd263ab9a4ebed2261f13b3e2a5eb45191e7b4c4108c860de46dcf9"
 metafile = true
 
 [[files]]

@@ -9,3 +9,5 @@ Create: Cosmonautics
 Create: New Age
 Create: Gunsmithing
 NukaTeam's Gun Lib
+Create: Dreams n' Desires 
+Create: Springs
