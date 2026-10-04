@@ -1,0 +1,13 @@
+name = "Aeronautics: Calibrated"
+filename = "Neoforge-Aeronautics-Calibrated-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8kRLmPpH/versions/78Nl65uk/Neoforge-Aeronautics-Calibrated-1.4.0.jar"
+hash-format = "sha512"
+hash = "4bc57fecedab69429c477d0b718677fc1f6df5e9bf1bb2a5dd17f4ee590f1188776b41a2997fecf8312d67989fdf527290bb300d6770a22493358b48cc7c882a"
+
+[update]
+[update.modrinth]
+mod-id = "8kRLmPpH"
+version = "78Nl65uk"

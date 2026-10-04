@@ -1,0 +1,13 @@
+name = "Macro Keybinds"
+filename = "1.21.1-macrokeybinds-neoforge-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2loIqHKX/versions/t1Q6wGXu/1.21.1-macrokeybinds-neoforge-2.0.0.jar"
+hash-format = "sha512"
+hash = "3db44040dc513578cb0dd855260e0cd112dfca74fdf4a9d824c2ef9ee949805b77d54b624875fdebb19a09a92cbed3393e187b421db38546549ebec901c91ddb"
+
+[update]
+[update.modrinth]
+mod-id = "2loIqHKX"
+version = "t1Q6wGXu"

@@ -1,0 +1,13 @@
+name = "Create: Steel Addon"
+filename = "steeladdon-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BonxDlCG/versions/xCNdUZOV/steeladdon-0.0.1.jar"
+hash-format = "sha512"
+hash = "10af4070f62603a6659e08961008ab7ecc95031489cc95912b3ea43a015ee50ec2b442b91a43ad5760840c4ad27b3c0c529d574c6c13e5e1665a82cca96d16e7"
+
+[update]
+[update.modrinth]
+mod-id = "BonxDlCG"
+version = "xCNdUZOV"

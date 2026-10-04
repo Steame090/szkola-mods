@@ -1,0 +1,13 @@
+name = "The Porkchop Express"
+filename = "porkchop-express-neoforge-1.21.1-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EIzVfaHo/versions/LKu512sR/porkchop-express-neoforge-1.21.1-0.1.2.jar"
+hash-format = "sha512"
+hash = "2e7f721939df391a75e44ab2bb04473994f5685e3e6bdb990a0da4a902e14e810c9505ca7282a96f5897f1c34f9bb31985a8c27d2c04dd5d3a8f884849174d95"
+
+[update]
+[update.modrinth]
+mod-id = "EIzVfaHo"
+version = "LKu512sR"
