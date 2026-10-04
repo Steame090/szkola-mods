@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c911d03476ac0e535c3c601ad98a725ce685e063032474abbf2a2fb9bf23f786"
+hash = "36d7a7aa4d5699795131cbf7ef5e6a81c747aa1c25b1a5fb37cf6847020e5dae"
 metafile = true
 
 [[files]]
@@ -651,6 +651,21 @@ hash = "00395cb1d58a0532352b8741ec7da6c631cebd509cd8498820e4dee16be4800a"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "d99554cf4022a273d2cc8108ed590c39965d244e3177316397f6cacc72cd2eb0"
+metafile = true
+
+[[files]]
+file = "mods/shaolib-munitions.pw.toml"
+hash = "90b63cf06f0d0c78a1eebe08b0b7dc60fbceb6b4d1787e200c22979745ab9973"
+metafile = true
+
+[[files]]
+file = "mods/shaolib.pw.toml"
+hash = "52844ecbde49a202162b1808ab3c36240fce17dd80e036dc0eadb7320f4071d2"
+metafile = true
+
+[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "b3b444ca79a5786d5c7589a7119fcf4c3e4cf73c70860c17acb63c88fc06749a"
 metafile = true
@@ -722,12 +737,17 @@ metafile = true
 
 [[files]]
 file = "mods/vista-aeronautics-fix.pw.toml"
-hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
+hash = "e6984ff406125d06bd2b27acbc7c9ed3f524e2110649963461fa5a18ea39ac96"
 metafile = true
 
 [[files]]
 file = "mods/vista-all-the-cassettes.pw.toml"
 hash = "80d848b00995a2010a583bf6608d82a989319839fddafd877b086ab766f55416"
+metafile = true
+
+[[files]]
+file = "mods/vista.pw.toml"
+hash = "94a04f6e5d4df5649de5e320b149236ed665b3acd4ec46e68f378a8db9dacf13"
 metafile = true
 
 [[files]]
