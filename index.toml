@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/shaolib.pw.toml"
-hash = "52844ecbde49a202162b1808ab3c36240fce17dd80e036dc0eadb7320f4071d2"
+hash = "91ed0831bb468afddd62c0cfde00c590704fc443e1609e9ba6d5f6871a8f2d38"
 metafile = true
 
 [[files]]
