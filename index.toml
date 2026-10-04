@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "36d7a7aa4d5699795131cbf7ef5e6a81c747aa1c25b1a5fb37cf6847020e5dae"
+hash = "0e06a4882a44f5e5e2017364e9d34ba5a19bf7be25b6397f723bc680c894746e"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "12c6e23ca90b3dc4df9f51c445d944e7cd298186dec5aeff65b66e54343f3272"
+hash = "cf5d87f046590b99d92096a79f6ea2f456290ba5d423c256f06674d2d10a1592"
 metafile = true
 
 [[files]]
