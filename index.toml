@@ -26,11 +26,6 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
-file = "mods/backup-manager.pw.toml"
-hash = "ee627e4c6974423bb7fd1b4e0ac8f4a7fa30b30662e2fc13f6f9267b9935271b"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
