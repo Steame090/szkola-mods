@@ -591,11 +591,6 @@ hash = "74b981b04f079323585e4e7b5a7aa268edabd0b3e76f6f7cba6c4e7a7c1bb280"
 metafile = true
 
 [[files]]
-file = "mods/porkchop-express.pw.toml"
-hash = "595695e735a37b5e50a6bf459f7849f54faa5c198c8985559d121b8fca9707c9"
-metafile = true
-
-[[files]]
 file = "mods/power-grid.pw.toml"
 hash = "22cf5579fbc67af2ac84358af3c390c6235fabd6cd6cc3828021349b588f4bdb"
 metafile = true
